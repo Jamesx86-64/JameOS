@@ -51,10 +51,10 @@ JameOS 1.1 is based off of Arch Linux.
 
 **Some features of JameOS 1.1:**
 
-- JameOS 1.1 can boot on systems using secure boot and is set up to be easily used in a dual-boot configuration. 
-- JameOS 1.1 has a fully functional desktop and should be functional for most everyday use.
+- JameOS 1.1 can boot on systems using [secure boot](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-secure-boot "Microsoft Docs") and is set up to be easily used in a [dual boot](https://en.wikipedia.org/w/index.php?title=Multi-booting "Wikipedia") configuration. 
+- JameOS 1.1 has a fully functional [KDE Plasma](https://kde.org/plasma-desktop/ "KDE") desktop and should be functional for most everyday use.
 - JameOS 1.1 has the ability to run some windows applications using a program called [Wine](https://www.winehq.org/ "WineHQ").
-- JameOS 1.1 has the ability to mount microsoft filesystems such as NTFS and FAT32.
+- JameOS 1.1 has the ability to mount microsoft filesystems such as [NTFS](https://docs.microsoft.com/en-us/windows-server/storage/file-server/ntfs-overview "Microsoft Docs") and [FAT32](https://en.wikipedia.org/wiki/File_Allocation_Table "Wikipedia").
 - JameOS 1.1 has a graphical app installer preinstalled in order to make installing apps much similar.
 
 **Why use JameOS 1.1?**
