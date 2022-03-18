@@ -79,7 +79,7 @@ Most likely JameOS 1.1 as it has a desktop and is fully usable for almost anyone
 
 ## Download Link ##
 
-- Click [here](https://drive.google.com/drive/folders/1iHFzuZzZGXZiJaG5aZiTY3S2Jp2bV9zU?usp=sharing "Downloads") for the downloads.
+Click [here](https://drive.google.com/drive/folders/1iHFzuZzZGXZiJaG5aZiTY3S2Jp2bV9zU?usp=sharing "Downloads") for the downloads.
 
 ## How To Install ##
 
