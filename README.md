@@ -98,10 +98,10 @@ However if you run into some trouble these are some super helpful resources to b
 
 **Some of the resources I find most helpful are listed here:**
 
-- Arch Linux Wiki
-- Arch Linux Forums
-- UnixStackExchange
-- LinuxQuestions.org
+- [Arch Linux Wiki](https://wiki.archlinux.org/ "ArchWiki")
+- [Arch Linux Forums](https://bbs.archlinux.org/ "Arch Linux Forums")
+- [Stack Exchange](https://unix.stackexchange.com/ "Stack Exchange")
+- [LinuxQuestions.org](https://www.linuxquestions.org/ "LinuxQuestions.org")
 
 **You can also report problems you face or help you need the in issues tab of this repository or contact me if you are someone I personally know.**
 
@@ -142,7 +142,7 @@ These are some other versions of JameOS I would like to release sometime in the 
 ## How To Support Me ##
 
 I am happy to take any advice people have for this project, most likely just throw it in as an issue and I will see what I can do to help you.
- 
- 
- 
+
+
+
 #### **Have a great rest of your day!!!** #### 
