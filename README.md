@@ -100,7 +100,7 @@ However if you run into some trouble these are some super helpful resources to b
 
 - [Arch Linux Wiki](https://wiki.archlinux.org/ "ArchWiki")
 - [Arch Linux Forums](https://bbs.archlinux.org/ "Arch Linux Forums")
-- [Stack Exchange](https://unix.stackexchange.com/ "Stack Exchange")
+- [Unix Stack Exchange](https://unix.stackexchange.com/ "Stack Exchange")
 - [LinuxQuestions.org](https://www.linuxquestions.org/ "LinuxQuestions.org")
 
 **You can also report problems you face or help you need the in issues tab of this repository or contact me if you are someone I personally know.**
