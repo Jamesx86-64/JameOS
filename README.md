@@ -1,8 +1,19 @@
 # **JameOS** #
 
-## what is JameOS ##
+# Table Of Contents #
+
+- [What is JameOS](#what-is-jameos)
+- [Why use JameOS](#why-use-jameos)
+- [Versions](#versions)
+- [JameOS 1.0](#jameos-10)
+- [JameOS 1.1](#jameos-11)
+- [Download Link](#download-link)
+- [How To Install](#how-to-install)
+
+## What is JameOS ##
 
 JameOS is a school project I created for the IB personal project.
+If you wish to download it go here
 
 ## Why use JameOS ##
 
@@ -10,7 +21,7 @@ JameOS is a lightweight Linux distro that aims to be easy to use for people want
 
 ## Versions ##
 
-There are currently 2 versions of JameOS: [1.0](#jameos-10 "Goto JameOS 1.0") and [1.1](#jameos-11 "Goto JameOS 1.1")
+There are currently 2 versions of JameOS: [1.0](#jameos-10 "Go to JameOS 1.0") and [1.1](#jameos-11 "Go to JameOS 1.1")
 
 ## JameOS 1.0 ##
 
@@ -58,8 +69,10 @@ JameOS 1.1 is based off of Arch Linux.
 - Does not support some windows only applications, including some video games and adbobe products.
 - Does not have a lot of active developers (just me).
 
+## Download Link ##
+
+- Click [here](https://drive.google.com/drive/folders/1iHFzuZzZGXZiJaG5aZiTY3S2Jp2bV9zU?usp=sharing "Downloads") for the downloads.
+
 ## How To Install ##
 
-1. Download the .img file.
-
-Helpful
+1. Download the .img file of the version you want
