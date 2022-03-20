@@ -83,7 +83,7 @@ Click [here](https://drive.google.com/drive/folders/1iHFzuZzZGXZiJaG5aZiTY3S2Jp2
 
 ## How To Install ##
 
-1. Download the .img file of the version you want.
+1. 
 
 ## Post Install Advice ##
 
