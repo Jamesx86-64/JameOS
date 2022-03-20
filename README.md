@@ -109,6 +109,16 @@ However if you run into some trouble these are some super helpful resources to b
 
 These are some other versions of JameOS I would like to release sometime in the future. 
 
+### **JameOS Recovery** ###
+
+**What will it be?**
+
+- This will an added feature or standalone disk image that has useful tools for troubleshooting errors.
+
+**When will it be out?**
+
+- Hopefully soon, after the 1.1 release is more stable.
+
 ### **JameOS 1.2** ###
 
 **What will it be?**
