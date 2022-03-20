@@ -41,9 +41,10 @@ JameOS 1.0 is command line only, and as such is super lightweight but most likel
 
 **Disadvantages of JameOS 1.0?**
 
-- Currently it doesn't work.
 - Command line only.
 - No package manager. 
+
+**NOTE:** due to some errors JameOS 1.0 is currently not avalible in downloads.
 
 ## JameOS 1.1 ##
 
