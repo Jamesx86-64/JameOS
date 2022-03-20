@@ -88,7 +88,42 @@ Click [here](https://drive.google.com/drive/folders/1iHFzuZzZGXZiJaG5aZiTY3S2Jp2
 
 ## Post Install Advice ##
 
-- 
+- Change the root password for security reasons:
+  1. Type `sudo passwd root` in the terminal and press enter.
+  2. Next type the new password twice. (note: you wont see the password as you are typing it)
+- Change the user password so people cant loggin to your account:
+  1. Open the System Settings application.
+  2. Navigate to the Users tab under Personalization.
+  3. 
+- Resize the partiton in order to get more space on the drive:
+  1. First lets open the Partition Manager application, and type our new password.
+  2. Once it is open find the partiton labeled JameOS 1.1.
+  3. Right click the partition and click the resize/move option.
+  4. In this menu there will be a bar at the top, slide the shaded in part of the bar all the way to the right, so it fills up the rest of the space, then click okay.
+  5. Now click the button in the far left corner that says Apply.
+  6. Finaly click the button says Apply Pending Operations.
+  7. Assuming everything went okay it should say All operations successfully finished, now feel free to click OK and close the application.
+- Update applications and learn to install new applications:
+  1. Open the Add/Remove Software application, it should be located on the taskbar too.
+  2. There are three tabs in the top of the application: Browse, Installed and Updates
+  3. First lets go to Updates. It will automaticaly check for some updates.
+  4. If you wish to update your system, in the bottom right corner click Apply.
+  5. Type your password and then it will update everything for you, it may require a restart to apply some updates, but you can still use your computer just fine if you hit close and just restart some other time.
+  6. Next we can go to Installed, where we can see installed applications.
+  7. Clicking on applications here will allow us to see details about them you can also serch for certain apps using the search button in the top left.
+  8. You can delete applications by clicking the trash icons on the main page or the remove button in the details page.
+  9. Next click Apply in the bottom right corner and then Apply in the next prompt after.
+  10.Next type your password and wait as it uninstalls the application.
+  11.Finaly lets go to the Browse tab.
+  12.Here you can see all the applications we can install on your system.
+  13.Again you can click them the see details of applications and serch for them in the top left.
+  14.Once you find an app you want click the down arrow next to it.
+  15.Then agin click Apply in the bottom corner and type your password.
+  16.It might ask some questions but, you shoudld be good to just press Choose or Apply on any prompt.
+  17.Wait for it to install and your good!
+- Setup dual boot for easly switching operating systems:
+  1. Open the termainl and run `sudo dual-boot`
+  2. It will ask you some questions, answer them to the best of your ability and then you should be good.
 
 ## Where To Find Help ##
 
