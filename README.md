@@ -39,7 +39,7 @@ JameOS 1.0 is command line only, and as such is super lightweight but most likel
 
 - Really, I have no idea.
 
-**Issues with JameOS 1.0?**
+**Disadvantages of JameOS 1.0?**
 
 - Currently it doesn't work.
 - Command line only.
@@ -65,7 +65,7 @@ JameOS 1.1 is based off of Arch Linux.
 - If you don't like using windows.
 - If you want a more performant operating system instead of windows, the performance boost is especially notable for older devices.
 
-**Issues with JameOS 1.0?**
+**Disadvantages of JameOS 1.1?**
 
 - Comes as an .img not .iso file.
 - Does not have a dedicated installer and can be tedious to install to disk.
