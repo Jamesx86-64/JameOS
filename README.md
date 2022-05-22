@@ -84,9 +84,10 @@ Click [here](https://drive.google.com/drive/folders/1iHFzuZzZGXZiJaG5aZiTY3S2Jp2
 
 ## How To Install ##
 
-1. 
+1. Download the file from the link
+2. 
 
-## Post Install Advice ##
+## Post Install Advice (JamesOS 1.1) ##
 
 - Change the root password for security reasons:
   1. Type `sudo passwd root` in the terminal and press enter.
@@ -94,7 +95,7 @@ Click [here](https://drive.google.com/drive/folders/1iHFzuZzZGXZiJaG5aZiTY3S2Jp2
 - Change the user password so people cant loggin to your account:
   1. Open the System Settings application.
   2. Navigate to the Users tab under Personalization.
-  3. 
+  3. Make the changes you want to make.
 - Resize the partiton in order to get more space on the drive:
   1. First lets open the Partition Manager application, and type our new password.
   2. Once it is open find the partiton labeled JameOS 1.1.
