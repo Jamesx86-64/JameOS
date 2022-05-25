@@ -29,7 +29,7 @@ There are currently 2 versions of JameOS: [1.0](#jameos-10 "Go to JameOS 1.0") a
 
 ## JameOS 1.0 ##
 
-JameOS 1.0 is based on [LFS](https://www.linuxfromscratch.org/ "Linux From Scratch").
+JameOS 1.0 is based on [Linux From Scratch](https://www.linuxfromscratch.org/ "Linux From Scratch").
 
 **Some features of JameOS 1.0:**
 
@@ -44,7 +44,7 @@ JameOS 1.0 is command line only, and as such is super lightweight but most likel
 - Command line only.
 - No package manager. 
 
-**NOTE:** due to some errors JameOS 1.0 is currently not avalible in downloads.
+**NOTE:** JameOS 1.0 has been discontinued and is currently not avalible in downloads.
 
 ## JameOS 1.1 ##
 
@@ -84,10 +84,10 @@ Click [here](https://drive.google.com/drive/folders/1iHFzuZzZGXZiJaG5aZiTY3S2Jp2
 
 ## How To Install ##
 
-1. Download the file from the link
+1. Download the JameOS.img file
 2. 
 
-## Post Install Advice (JamesOS 1.1) ##
+## Post Install Advice ##
 
 - Change the root password for security reasons:
   1. Type `sudo passwd root` in the terminal and press enter.
