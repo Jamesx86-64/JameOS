@@ -87,7 +87,7 @@ Click [here](https://drive.google.com/drive/folders/1iHFzuZzZGXZiJaG5aZiTY3S2Jp2
 **Note: You will need a USB drive you are willing to erase to install JameOS on**
 
 1.  Download the JameOS.img file from the link above.
-2.  Go to [https://rufus.ie/en/](https://rufus.ie/en/ "Rufus") and download it.
+2.  Go to [https://rufus.ie](https://rufus.ie "Rufus") and download it.
 3.  Now run Rufus.
 4.  Click "Show advanced drive properties" and check the "List USB Hard Drives" option.
 5.  Click the box under where it says "device" and select the USB drive you will install JameOS on, this will delete everything on the drive so make you've moved everything off of it. 
