@@ -86,45 +86,26 @@ Click [here](https://drive.google.com/drive/folders/1iHFzuZzZGXZiJaG5aZiTY3S2Jp2
 
 **Note: You will need a USB drive you are willing to erase to install JameOS on**
 
-1. Download the JameOS.img file from the link above.
-  
-2. Go to https://rufus.ie/en/(https://rufus.ie/en/ "Rufus") and download it.
-  
-3. Now run Rufus.
-  
-4. Click "Show advanced drive properties" and check the "List USB Hard Drives" option.
-  
-5. Click the box under where it says "device" and select the USB drive you will install JameOS on, this will delete everything on the drive so make sure you've moved everything off of it. 
-  
-6. Now click the "SELECT" button and select the JameOS.img file.
-
-7. Finally click "START" and then "OK".
-
-8. Once it is done running the green bar at the bottom should be all the way full and say "READY".
-
-9. Now hold down the shift key while you click the restart button in the start menu.
-
-  10.This should bring up a blue screen with an option called "Use a device", click on that option.
-
-  11.Find the USB option and click it.
-
-  12.Your computer will then turn off and if all goes right and when it reboots it should come up with a blue error screen.
-
-  13.Press enter to select "OK" and then press any key before the reboot.
-  
-  14.Choose the "Enroll key from disk" option.
-
-  15.Select the option that seems like it is the USB drive.
-
-  16.Select the "JameOS secure boot key.cer" file.
-
-  17.Now choose the "Contine" option and then choose "Yes".
-
-  18.Now choose the "Reboot" option.
-
-  19.From now on you can hold the shift key while you click the restart button and then choose to boot from the USB drive to run JameOS.
-
-  20.To login the default password is "Password".
+Download the JameOS.img file from the link above.
+Go to https://rufus.ie/en/(https://rufus.ie/en/ "Rufus") and download it.
+Now run Rufus.
+Click "Show advanced drive properties" and check the "List USB Hard Drives" option.
+Click the box under where it says "device" and select the USB drive you will install JameOS on, this will delete everything on the drive so make sure you've moved everything off of it. 
+Now click the "SELECT" button and select the JameOS.img file.
+Finally click "START" and then "OK".
+Once it is done running the green bar at the bottom should be all the way full and say "READY".
+Now hold down the shift key while you click the restart button in the start menu.
+This should bring up a blue screen with an option called "Use a device", click on that option.
+Find the USB option and click it.
+Your computer will then turn off and if all goes right and when it reboots it should come up with a blue error screen.
+Press enter to select "OK" and then press any key before the reboot.
+Choose the "Enroll key from disk" option.
+Select the option that seems like it is the USB drive.
+Select the "JameOS secure boot key.cer" file.
+Now choose the "Contine" option and then choose "Yes".
+Now choose the "Reboot" option.
+From now on you can hold the shift key while you click the restart button and then choose to boot from the USB drive to run JameOS.
+To login the default password is "Password".
 
 ## Post Install Advice ##
 
