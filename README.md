@@ -96,8 +96,11 @@ Click [here](https://drive.google.com/drive/folders/1iHFzuZzZGXZiJaG5aZiTY3S2Jp2
 8. Once it is done running the green bar at the bottom should be all the way full and say "READY".
 9. Now hold down the shift key while you click the restart button in the start menu.
 10.This should bring up a blue screen with an option called "Use a device", click on that option.
+
 11.Find the USB option and click it.
+
 12.Your computer will then turn off and if all goes right and when it reboots it should come up with a blue error screen.
+
 13.Press enter to select "OK" and then press any key before the reboot.
 14.Choose the "Enroll key from disk" option.
 15.Select the option that seems like it is the USB drive.
