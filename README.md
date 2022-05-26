@@ -97,8 +97,15 @@ Click [here](https://drive.google.com/drive/folders/1iHFzuZzZGXZiJaG5aZiTY3S2Jp2
 9. Now hold down the shift key while you click the restart button in the start menu.
 10.This should bring up a blue screen with an option called "Use a device", click on that option.
 11.Find the USB option and click it.
-12.Your computer will then turn off and if all goes right
-
+12.Your computer will then turn off and if all goes right and when it reboots it should come up with a blue error screen.
+13.Press enter to select "OK" and then press any key before the reboot.
+14.Choose the "Enroll key from disk" option.
+15.Select the option that seems like it is the USB drive.
+16.Select the "JameOS secure boot key.cer" file.
+17.Now choose the "Contine" option and then choose "Yes".
+18.Now choose the "Reboot" option.
+19.From now on you can hold the shift key while you click the restart button and then choose to boot from the USB drive to run JameOS.
+20.To login the default password is "Password".
 
 ## Post Install Advice ##
 
