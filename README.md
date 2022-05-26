@@ -44,7 +44,7 @@ JameOS 1.0 is command line only, and as such is super lightweight but most likel
 - Command line only.
 - No package manager. 
 
-**NOTE:** JameOS 1.0 has been discontinued and is currently not avalible in downloads.
+**NOTE:** JameOS 1.0 has been discontinued and is currently not available in downloads.
 
 ## JameOS 1.1 ##
 
@@ -55,7 +55,7 @@ JameOS 1.1 is based off of Arch Linux.
 - JameOS 1.1 can boot on systems using [secure boot](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-secure-boot "Microsoft Docs") and is set up to be easily used in a [dual boot](https://en.wikipedia.org/w/index.php?title=Multi-booting "Wikipedia") configuration. 
 - JameOS 1.1 has a fully functional [KDE Plasma](https://kde.org/plasma-desktop/ "KDE") desktop and should be functional for most everyday use.
 - JameOS 1.1 has the ability to run some windows applications using a program called [Wine](https://www.winehq.org/ "WineHQ").
-- JameOS 1.1 has the ability to mount microsoft filesystems such as [NTFS](https://docs.microsoft.com/en-us/windows-server/storage/file-server/ntfs-overview "Microsoft Docs") and [FAT32](https://en.wikipedia.org/wiki/File_Allocation_Table "Wikipedia").
+- JameOS 1.1 has the ability to mount microsoft file systems such as [NTFS](https://docs.microsoft.com/en-us/windows-server/storage/file-server/ntfs-overview "Microsoft Docs") and [FAT32](https://en.wikipedia.org/wiki/File_Allocation_Table "Wikipedia").
 - JameOS 1.1 has a graphical app installer preinstalled in order to make installing apps much similar.
 
 **Why use JameOS 1.1?**
@@ -90,7 +90,7 @@ Click [here](https://drive.google.com/drive/folders/1iHFzuZzZGXZiJaG5aZiTY3S2Jp2
 2.  Go to [https://rufus.ie](https://rufus.ie "Rufus") and download Rufus.
 3.  Now run Rufus.
 4.  Click "Show advanced drive properties" and check the "List USB Hard Drives" option.
-5.  Click the box under where it says "device" and select the USB drive you will install JameOS on, this will delete everything on the drive so make you've moved everything off of it. 
+5.  Click the box under where it says "device" and select the USB drive you will install JameOS on, this will delete everything on the drive so make sure you've moved everything off of it. 
 6.  Now click the "SELECT" button and select the JameOS.img file.
 7.  Finally click "START" and then "OK".
 8.  Once it is done running the green bar at the bottom should be all the way full and say "READY".
@@ -102,7 +102,7 @@ Click [here](https://drive.google.com/drive/folders/1iHFzuZzZGXZiJaG5aZiTY3S2Jp2
 14. Choose the "Enroll key from disk" option.
 15. Select the option that seems like it is the USB drive.
 16. Select the "JameOS secure boot key.cer" file.
-17. Now choose the "Contine" option and then choose "Yes".
+17. Now choose the "Continue" option and then choose "Yes".
 18. Now choose the "Reboot" option.
 19. From now on you can hold the shift key while you click the restart button and then choose to boot from the USB drive to run JameOS.
 20. To login the default password is "Password".
